@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on a Hijri Calendar app<br>👯 I’m looking to collaborate on Game development projects and open-source tools for Muslims<br>🤝 I’m looking for help with learning different technologies<br>🌱 I’m currently learning about web dev and game dev<br>💬 Ask me about web development, game design, or creating apps and tools that help communities.<br>⚡ Fun fact I plan to start a game development company in Mostar, creating both original IPs and games based on popular franchises like anime and comics!
+🔭 Currently working on a Hijri Calendar web, Android, and Windows app  
+🤝 Open to collaboration on game dev and open-source tools for Muslims  
+🌱 Learning full-stack web dev & game dev  
+💬 Ask me about web apps, game design, or building tools that benefit communities  
+⚡ Fun fact: I'm planning to launch a game dev studio in Mostar, working on both original and anime/comic-inspired games!
 
 
 ## 🌐 Socials:
