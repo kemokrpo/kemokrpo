@@ -77,7 +77,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kemokrpo&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kemokrpo&theme=codeSTACKr&hide_border=false)<br/>
-[[![Top Langs](https://github-readme-stats-git-master-kemo-krpos-projects.vercel.app/api/top-langs/?username=kemokrpo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats-git-master-kemo-krpos-projects.vercel.app/api/top-langs/?username=kemokrpo&layout=compact)
+[![Top Langs](https://github-readme-stats-git-master-kemo-krpos-projects.vercel.app/api/top-langs/?username=kemokrpo&layout=compact&theme=tokyonight&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kemokrpo&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
